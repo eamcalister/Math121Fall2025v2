@@ -1,0 +1,39 @@
+INFO    : Building target activities-web
+INFO    : XSL conversion of /workspaces/Math121Fall2025v2/source/activities.ptx by /home/codespace/.ptx/2.19.2/core/xsl/utilities/pretext-enhanced-source.xsl
+INFO    : successful application of /home/codespace/.ptx/2.19.2/core/xsl/utilities/pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : converting PreFigure diagrams from /workspaces/Math121Fall2025v2/source/activities.ptx to SVG graphics for placement in /workspaces/Math121Fall2025v2/generated-assets/prefigure
+INFO    : extracting PreFigure diagrams from /workspaces/Math121Fall2025v2/source/activities.ptx
+INFO    : string parameters passed to extraction stylesheet: {'cli.version': '2.19', 'publisher': '/workspaces/Math121Fall2025v2/publication/publication.ptx'}
+INFO    : XSL conversion of /workspaces/Math121Fall2025v2/source/activities.ptx by /home/codespace/.ptx/2.19.2/core/xsl/extract-prefigure.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of /home/codespace/.ptx/2.19.2/core/xsl/extract-prefigure.xsl
+INFO    : compiling PreFigure source file quadratics.xml to SVG
+INFO    : copying PreFigure output to /workspaces/Math121Fall2025v2/generated-assets/prefigure
+INFO    : Removing temporary directory /tmp/ptx-ojvkqxgi
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into /workspaces/Math121Fall2025v2/output/activities-web.
+INFO    : discovering source file's directory name: /workspaces/Math121Fall2025v2/source
+INFO    : verifying and expanding input directory: /workspaces/Math121Fall2025v2/source/../generated-assets
+INFO    : input directory expanded to absolute path: /workspaces/Math121Fall2025v2/generated-assets
+INFO    : verifying and expanding input directory: /workspaces/Math121Fall2025v2/source/../assets
+INFO    : input directory expanded to absolute path: /workspaces/Math121Fall2025v2/assets
+INFO    : XSL conversion of /workspaces/Math121Fall2025v2/source/activities.ptx by /home/codespace/.ptx/2.19.2/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : successful application of /home/codespace/.ptx/2.19.2/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.7.5
+INFO    : Downloading Runestone Services, version 7.7.5
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-salem
+INFO    : converting /workspaces/Math121Fall2025v2/source/activities.ptx to HTML in /tmp/ptx-xctpbbwt
+INFO    : XSL conversion of /workspaces/Math121Fall2025v2/source/activities.ptx by /home/codespace/.ptx/2.19.2/core/xsl/pretext-html.xsl
+INFO    : successful application of /home/codespace/.ptx/2.19.2/core/xsl/pretext-html.xsl
+INFO    : Removing temporary directory /tmp/ptx-xctpbbwt
+INFO    : Removing temporary directory /tmp/ptx-72ypllow
+INFO    : 
+Success! Run `pretext view activities-web` to see the results.
+
+INFO    : 
