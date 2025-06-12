@@ -1,0 +1,78 @@
+INFO    : Building target activities-web
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : converting PreFigure diagrams from C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx to SVG graphics for placement in C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\generated-assets\prefigure
+INFO    : extracting PreFigure diagrams from C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx
+INFO    : string parameters passed to extraction stylesheet: {'cli.version': '2.19', 'publisher': 'C:/Users/mcalister_e/Desktop/Pretext_repositories/course-template/publication/publication.ptx'}
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\extract-prefigure.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\extract-prefigure.xsl
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-1-a.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-1-b.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-1-c.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-2-a.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-2-b.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-2-c.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-3-a.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-3-b.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-6-digraph.xml to SVG
+INFO    : copying PreFigure output to C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\generated-assets\prefigure
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-gn_fvuva
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\output\activities-web.
+INFO    : discovering source file's directory name: C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\assets
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.7.5
+INFO    : Downloading Runestone Services, version 7.7.5
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-greeley
+INFO    : converting C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx to HTML in C:\Users\MCALIS~1\AppData\Local\Temp\ptx-h6vw0n5_
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\course-template\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.2\core\xsl\pretext-html.xsl
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-h6vw0n5_
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-svikjjyn
+INFO    : 
+Success! Run `pretext view activities-web` to see the results.
+
+INFO    : 

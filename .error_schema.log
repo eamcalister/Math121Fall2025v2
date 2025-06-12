@@ -1,0 +1,5 @@
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025v2/source/activities.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element p, got frontmatter
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025v2/source/activities.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element frontmatter there
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025v2/source/activities.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element sidebyside, got frontmatter
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025v2/source/activities.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element proof, got frontmatter
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025v2/source/activities.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element exercise, got frontmatter
